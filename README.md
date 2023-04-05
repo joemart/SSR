@@ -1,0 +1,1 @@
+Created a Pokemon app by following this youtube tutorial: https://www.youtube.com/watch?v=2tJedF8I-8Q
