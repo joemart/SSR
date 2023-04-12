@@ -32,7 +32,7 @@ export async function getServerSideProps({params:{name}}){
 
 
 export default  ({params:{data}}) => {
-
+//4710056
 
     return<>
     <div>
